@@ -1,3 +1,5 @@
+<p align="center"><img src="project-banner.svg" alt="LLM Prompt Engineering Lab banner" width="100%" /></p>
+
 # LLM Prompt Engineering Lab
 
 A practical, reproducible laboratory for learning prompt engineering with large language models (LLMs).
@@ -11,13 +13,7 @@ A practical, reproducible laboratory for learning prompt engineering with large 
 
 ## Prompt experiment template
 
-For every experiment, record:
-
-1. Task and expected behavior
-2. Model and configuration
-3. Exact prompt and example inputs
-4. Evaluation criteria
-5. Failure cases and next iteration
+For every experiment, record the task, model configuration, exact prompt, evaluation criteria, failure cases, and next iteration.
 
 ## Responsible use
 
